@@ -8,7 +8,7 @@
   "devDependencies": {
     "@oracle/grunt-oraclejet": "~6.1.0",
     "@oracle/oraclejet-tooling": "^6.1.0",
-    "grunt": "^1.0.1",
+    "grunt": "^1.3.0",
     "load-grunt-config": "0.19.2",
     "qunit": "^2.4.1",
     "qunit-reporter-junit": "^1.1.1"
